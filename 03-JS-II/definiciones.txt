@@ -1,0 +1,6 @@
+'For' es un bucle; un bucle es una repeticion suseciva del mismo proceso, existen varios tipo de bucle. Un bucle for es un bucle que repite la agrupación de instrucciones en un proceso un cierto número de veces.
+
+`&&`, `||`, `!` son operadores logicos que se utilizan normalmente para devolver valores booleanos (true o false) 
+&& significa "y", quiere decir que si se cumple esta condicion y esta otra condicion nos retornara un valor booleano
+|| significa "o", quiere decir que si se cumple esta condicion o esta otra condicion nos retornara un valor booleano
+! significa "no", el operador "no" devuelve el valor opuesto al valor booleano. Si la expresión es True el valor devuelto es False , de lo contrario si la expresión es False el valor devuelto es True.

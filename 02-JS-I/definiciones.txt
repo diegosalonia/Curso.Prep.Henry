@@ -1,0 +1,9 @@
+Variables es el lugar donde definimos o guardamos un valor o podríamos decir que es un hilo de caracteres que definen distintos valores
+
+Strings es una cadena de caracteres que se encuentran entre comillas
+
+Funciones son conjunto de códigos que definen, con parámetros o argumentos, operaciones que retornan algún valor
+
+Declaración if es la que evalúa una expresión, si da resultado positivo se realizan las acciones relacionadas con el caso positivo, se pueden encadenar if (if anidados) para dar resultados en caso de que las expresiones den resultados negativos y se tenga que tomar otras acciones
+
+Valores Booleanos son aquellos que pueden representar valores de lógica, normalmente se les asigna solo dos valores: true o false (verdadero o falso)
