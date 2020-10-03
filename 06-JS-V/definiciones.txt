@@ -1,0 +1,4 @@
+prtotype: Es una propiedad que tienen todos los objetos de JavaScript, el cual representa el prototipo de cada objeto.
+Gracias a prototype, se pueden modificar los objetos
+
+_Constructors_ (de Clases): es un método especial para crear e inicializar un objeto creado con una clase, 
