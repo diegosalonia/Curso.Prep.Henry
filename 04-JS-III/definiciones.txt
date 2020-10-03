@@ -1,0 +1,1 @@
+Array (arreglo) es una matriz que en ella agrupa datos que pueden ser de la misma clase o de diferentes, esta matriz contiene un indice con cada una de las posiciones de sus datos, ademas esta matriz tiene diferentes propiedades para trabajar en ellas.
